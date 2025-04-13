@@ -1,6 +1,6 @@
 //+------------------------------------------------------------------+
 //|                   TrendStrengthMeter.mq5                         |
-//|                      Copyright 2023, CN_MAI                      |
+//|                      Copyright 2025, CN_MAI                      |
 //|              Enhanced GUI with Confirmation Indicators           |
 //+------------------------------------------------------------------+
 #property copyright "Copyright 2023, Your Name"
