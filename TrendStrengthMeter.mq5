@@ -3,8 +3,7 @@
 //|                      Copyright 2025, CN_MAI                      |
 //|              Enhanced GUI with Confirmation Indicators           |
 //+------------------------------------------------------------------+
-#property copyright "Copyright 2023, Your Name"
-#property link      "https://yourfreelanceprofile.com" // Example Link
+#property copyright "Copyright 2025, CN_Mai"
 #property version   "1.20" // Version updated for enhancements
 #property description "Enhanced Trend Strength Meter (RSI+ADX+DI) with MA, MACD, Stoch Confirmations"
 
